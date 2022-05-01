@@ -67,4 +67,4 @@
   
 View the project in GitHub at: https://github.com/MGyata/readme-generator
   
-If you have any questions, contact the author directly at mguzmanedu@gmail.com.#readme-generator
+If you have any questions, contact the author directly at mguzmanedu@gmail.com.
