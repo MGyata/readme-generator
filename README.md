@@ -1,6 +1,8 @@
-  ## Readme Generator 
+
+  ## readme generator 
   
-  ![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)
+  
+![MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg) 
   
   ### App Demo
   ![](images/readme-generator.gif)
@@ -34,7 +36,7 @@
   ```
   
   ### Description
-   *A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package*
+   * command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package*
     
   ### Table of Contents
   - [Installation](#installation)
@@ -45,7 +47,7 @@
   - [Details](#details)
   
   ### Installation
-  Packages required to run this program are: inquirer, axios
+  Packages required to run this program are: Inquirer Axios
   
   ### Usage
   Examples of how to use this program: Automatically generates a readme file
@@ -54,17 +56,17 @@
   MIT
   
   ### Tests
-  To test, run the following command: N/A
+  To test, run the following command: node index
   
   ### Contributors
   Matthew Guzman
   
   ### Contact
   
-![Badge](https://img.shields.io/badge/Github-Mgyata-4cbbb9) 
+![Badge](https://img.shields.io/badge/Github-MGyata-4cbbb9) 
   
 ![Profile Image](https://github.com/MGyata.png?size=50)
   
 View the project in GitHub at: https://github.com/MGyata/readme-generator
   
-If you have any questions, contact the author directly at mguzmanedu@gmail.com.
+If you have any questions, contact the author directly at mattguzmanedu@gmail.com.
