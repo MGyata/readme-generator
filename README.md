@@ -5,7 +5,7 @@
 ![MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg) 
   
   ### App Demo
-  ![](images/readme-generator.gif)
+  ![](C:\Desktop\readme-generator-master\images\Readmegenerator.mkv)
   
   ### User Story
   
